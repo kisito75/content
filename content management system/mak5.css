@@ -1,0 +1,228 @@
+*{
+	margin: 0px;
+	padding: 0PX;
+}
+
+
+
+.nav1{
+	background-color: darkgray;
+	height: 145px;
+
+}
+
+
+.logo{
+	height: 150px;
+	width: 150px;
+	margin-top: -9%;
+}
+
+
+.fond2{
+	background-color: white;
+	height: 10px;
+}
+
+.menu{
+ margin-top: -9%;
+}
+
+
+
+.menu{
+	margin-left: 50%;
+}
+
+
+.menu ul li{
+   display: inline-block;
+
+}
+
+
+.menu ul li a{
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin: 25px; 
+}
+
+
+.star{
+	background-color: blue;
+	height: 40px;
+	width: 155px;
+	padding-bottom: 23px;
+	padding-top: -163px;
+	border-radius: 35px;
+
+}
+
+.menu ul li a{
+	font size: 22px;
+	font-family: baskerville;
+}
+
+.menu ul li a:hover{
+	color: yellow;
+	font-size: 23px;
+	font-family: baskerville;
+}
+
+
+
+
+
+
+
+.paragraphe1{
+	margin-left: 15px;
+	font-family: impact;
+	font-size: 22px;
+	font-top: 250px;
+}
+
+.ordinateur{
+	height: 150px;
+	width: 150px;
+	margin-right: 50%;
+} 
+
+.paragrphe1 div{
+	display: inline-block;
+}
+
+
+.paragrphe1 div{
+	display: block;
+}
+
+.learn{
+	background-color: blue;
+	height: 30px;
+	width: 110px;
+	padding: 5px;
+	margin-left: 2px;
+	text-align: center;
+	color: white;
+	border-radius: 30px;
+}
+
+
+
+
+
+
+
+.section2{
+	background-color: blue;
+	height: 350px;
+}
+
+.services{
+	font-family: baskerville;
+	font-size: 44px;
+	margin-left: 50%;
+	color: white;
+
+}
+
+.hr1{
+	margin-left: 50%;
+	margin-right: 39%;
+}
+
+
+
+
+
+
+.fond3{
+	height: 294px;
+	background-color: yellow;
+}
+
+
+.porfolio{
+	font-family: impact;
+	font-size: 25px;
+	color: black;
+	margin-left: 50%;
+
+}
+
+
+.hr2{
+	margin-left: -1%;
+	margin-right: 87%;
+	
+}
+
+
+.images{
+	display: flex;
+	justify-content: space-between;
+	margin-left: -325px;
+
+	
+}
+
+.images img{
+margin-left: 40px;
+margin-bottom: 1
+}
+
+
+
+
+
+.section4{
+	height: 300px;
+	background-color: white;
+}
+
+
+.carte{
+	margin-left: 50%;
+}
+
+
+.contact{
+	font-family: garamond;
+	font-size: 50%;
+	color: blue;
+	margin-left: 150%;
+}
+
+.tel{
+	font-size: 15px;
+	color: blue;
+	font-family: baskerville;
+	margin-left: 5%;
+
+
+
+}
+
+
+
+
+
+.footer{
+	background-color: black;
+	height: 90px;
+}
+
+.fin{
+	color: white;
+	font-family: arial;
+	font-size: 20px
+}
+
+.mail{
+	font-size: 13px;
+	font-family: arial;
+	color: white;
+	margin-left: 40%;
+}
